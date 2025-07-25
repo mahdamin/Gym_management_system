@@ -316,4 +316,3 @@ For questions, issues, or feature requests:
 
 ---
 
-**Built with ❤️ for the maker community**
