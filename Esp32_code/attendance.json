@@ -1,0 +1,1784 @@
+[
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:08.647586",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 16
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:09.769825",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:10.690237",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:12.732663",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:14.685606",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:16.630120",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:22.668716",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:24.722189",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T14:21:26.667881",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:33:41.690930",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:33:43.667469",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:33:45.694902",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:34:07.905941",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:34:09.941858",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:34:11.886898",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:34:13.946355",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:34:15.896400",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:34:17.936272",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:37:11.952826",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:37:13.963217",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:37:15.908463",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:37:17.953378",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:37:19.938653",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:37:21.986447",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:01.894655",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:03.391128",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:03.936825",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:05.989959",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:07.940864",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:09.982555",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:11.926287",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:13.986261",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:15.926091",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:18.011517",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:19.910732",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:21.963951",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:23.916660",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:25.966794",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:27.898673",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:29.952624",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:31.012777",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:31.899815",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:33.942840",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:35.886684",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:37.942970",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:39.999116",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:41.934882",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:43.978957",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:45.920416",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:48.011513",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:49.962024",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:51.969403",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:53.918218",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:55.955647",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:57.902355",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:39:59.952909",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:01.895211",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:03.943177",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:05.888494",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:07.943613",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:09.989455",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:11.931602",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:14.021527",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:15.929147",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:18.014160",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:19.923535",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:21.966104",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:40:23.954353",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:27.917537",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:29.970918",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:31.025816",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:31.917352",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:33.959212",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:35.907680",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:37.958609",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:39.892529",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:41.945917",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:43.908385",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:45.955634",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:47.982606",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:49.938272",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:51.977595",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:53.934425",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:57.409259",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:57.923701",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:41:59.966539",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:01.922326",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:04",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:05.910613",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:07.993140",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:09.911342",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:11.955408",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:13.932759",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:15.953858",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:17.910177",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:19.942586",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:22.022866",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:23.936166",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:25.975123",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:27.922957",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:29.972729",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:30.992752",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:31.913882",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:33.962561",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:35.913159",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:37.998421",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:39.899399",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:41.949750",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:43.909145",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:45.982997",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:47.899184",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:49.946330",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:52.026574",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:53.944599",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:55.986331",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:42:57.931972",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:00.014675",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:01.921536",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:03.965156",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:05.950263",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:07.964027",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:09.916411",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:11.993443",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:13.899680",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:15.953162",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:17.898096",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:20.918465",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:21.912679",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:23.941492",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:25.975074",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:27.934009",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:29.979870",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:30.897607",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:31.927034",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:33.970526",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:35.914246",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:37.963845",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:39.917842",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:42.001314",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:43.911744",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:45.958663",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:48.023130",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:49.986678",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:51.896957",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:53.992092",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:56.025427",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:57.931369",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:43:59.989781",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:01.925150",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:03.972927",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:05.941052",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:07.963804",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:09.916421",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:11.963884",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:13.953239",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:15.962814",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:17.908232",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:19.957119",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:21.909262",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:23.952281",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:25.888541",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:27.931775",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:29.987640",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:30.925712",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:31.938101",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:34.017043",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:35.941624",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:38.010249",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:39.919764",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:42.004594",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:43.950911",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:45.967059",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:55.907055",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:57.946487",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:44:59.888060",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "subscription_renewal",
+    "timestamp": "2025-07-25T17:45:00.570494",
+    "date": "2025-07-25",
+    "subscription_type": "open_month",
+    "sessions_left": "Unlimited"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:45:01.942328",
+    "date": "2025-07-25",
+    "subscription_type": "open_month",
+    "sessions_left": "Unlimited"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:45:02.796827",
+    "date": "2025-07-25",
+    "subscription_type": "open_month",
+    "sessions_left": "Unlimited"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:45:03.989764",
+    "date": "2025-07-25",
+    "subscription_type": "open_month",
+    "sessions_left": "Unlimited"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "subscription_renewal",
+    "timestamp": "2025-07-25T17:45:04.639912",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:45:05.902645",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:45:06.742834",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:45:07.978653",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:45:10.083899",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:51:15.328402",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "2321E505",
+    "username": "ilyes",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:51:17.241775",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:51:23.315235",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:51:25.324442",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:51:27.274823",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:51:29.929118",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T17:51:30.962329",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi mansour",
+    "action": "check_in",
+    "timestamp": "2025-07-25T18:30:17.313747",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi mansour",
+    "action": "check_in",
+    "timestamp": "2025-07-25T18:30:22.028005",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi mansour",
+    "action": "check_in",
+    "timestamp": "2025-07-25T18:30:23.351898",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi mansour",
+    "action": "check_in",
+    "timestamp": "2025-07-25T18:30:25.296924",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi mansour",
+    "action": "check_in",
+    "timestamp": "2025-07-25T18:30:27.357805",
+    "date": "2025-07-25",
+    "subscription_type": "16_sessions_per_month",
+    "sessions_left": 15
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T18:38:16.043032",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  },
+  {
+    "rfid_uid": "0C22BB6E",
+    "username": "mehdi",
+    "action": "check_in",
+    "timestamp": "2025-07-25T18:38:17.994626",
+    "date": "2025-07-25",
+    "subscription_type": "three_open_months",
+    "sessions_left": "Unlimited (3 months)"
+  }
+]
